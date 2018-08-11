@@ -1,0 +1,35 @@
+.h-1 {
+	height : 100px !important;
+}
+
+.h-2 {
+	height : 200px !important;
+}
+
+.h-3 {
+	height : 300px !important;
+}
+
+.h-4 {
+	height : 400px !important;
+}
+
+.right-align {
+	text-align : right !important;
+}
+
+.left-align {
+	text-align : left !important;
+}
+
+.center-align {
+	text-align : justify !important;
+}
+
+.right{
+	float : right !important;
+}
+
+.left{
+	float : left !important;
+}
